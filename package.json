@@ -1,0 +1,27 @@
+{
+  "name": "npmtest",
+  "version": "0.0.0",
+  "description": "Some NPM test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cm4fan/npmtest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nikolay Guryanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cm4fan/npmtest/issues"
+  },
+  "homepage": "https://github.com/cm4fan/npmtest#readme"
+}
