@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/cm4fan/npmtest/issues"
   },
-  "homepage": "https://github.com/cm4fan/npmtest#readme"
+  "homepage": "https://github.com/cm4fan/npmtest#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
 }
